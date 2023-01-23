@@ -17,3 +17,5 @@ https://user-images.githubusercontent.com/32972936/214146531-b6e12a70-bec9-4e0c-
   - option to save annotations in tf record format
   - better UI design
   - button to select frametime (currently hardcoded to 1 second between each frame)
+  - integration with google drive
+    - assign group members videos to annotate + dashboard to see annotation progress
